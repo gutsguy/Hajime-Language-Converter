@@ -1,5 +1,7 @@
 ﻿# Hajime-Language-Converter
 
+https://github.com/user-attachments/assets/682cfd42-8dd8-4e8a-a666-f4b1946a8dde
+
 ## 사용방법
 • 파일을 전부 다운받고 hajime.exe 를 실행해주세요.
 
