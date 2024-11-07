@@ -36,8 +36,8 @@
 
 기본 / 원문 형식
 
-<img src="https://github.com/user-attachments/assets/c37bd524-78b5-4d49-95d9-6db028ff4f45" width="300" height="188"/>
-<img src="https://github.com/user-attachments/assets/ef815153-1ab0-4fc1-a94c-0ccd88936cfd" width="300" height="188"/>
-<img src="https://github.com/user-attachments/assets/8b1f02b5-6ec2-4068-bbd2-fba8b0ad993e" width="300" height="188"/>
+<img src="https://github.com/user-attachments/assets/c37bd524-78b5-4d49-95d9-6db028ff4f45" width="233" height="146"/>
+<img src="https://github.com/user-attachments/assets/ef815153-1ab0-4fc1-a94c-0ccd88936cfd" width="233" height="146"/>
+<img src="https://github.com/user-attachments/assets/8b1f02b5-6ec2-4068-bbd2-fba8b0ad993e" width="233" height="146"/>
 
 기본 / 반쵸 뒤에 줄바꿈 / 반쵸 뒤에 줄바꿈 + 원문 형식
