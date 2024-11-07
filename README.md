@@ -1,6 +1,6 @@
 ﻿# Hajime-Language-Converter
 
-![스크린샷 2024-11-06 223836](https://github.com/user-attachments/assets/682cfd42-8dd8-4e8a-a666-f4b1946a8dde)
+<img src="https://github.com/user-attachments/assets/3eaa71fe-22a1-4ee7-8566-04d0d1933532" width="1000" height="630"/>
 
 ## 사용방법
 • 파일을 전부 다운받고 hajime.exe 를 실행해주세요.
